@@ -4,13 +4,11 @@
 **Area53** is a program that converts any image into an *impossible* and *strange* theory.
 
 #### Input:
-<img src="assets/pigeon.jpg" border="10px" height="200px" width="300px">
+<img src="assets/pigeon.jpg" height="200px" width="300px">
 
 #### Output:
-<font color="#46cec3">
 The seemingly <b>innocent bird</b> perched atop the lamppost in Central Park is, in fact, a time traveler from the future.
 relaying messages to a rogue <b>AI</b> controlling the global stock market via synchronized flapping of wings. 
-</font>
 
 ## How To Setup?
 1. First, download the repo and find the folder named `raw`

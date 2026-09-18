@@ -70,3 +70,4 @@ with console.status("[bold yellow]Creating Theory...[/bold yellow]", spinner="sq
         time.sleep(0.05)
 
 print(f"[bold yellow]Classified:[/bold yellow]\n   [bold magenta]{response}[/bold magenta]")
+#space monkeys exist
